@@ -1,6 +1,7 @@
 
 spring:
-  application: CONFIG-DEV
+  application: 
+    name: CONFIG-DEV
 
 
 
