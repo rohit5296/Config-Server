@@ -1,7 +1,8 @@
 
 
 spring:
-  application: CONFIG-PROD
+  application: 
+    name: CONFIG-PROD
 
 
 
