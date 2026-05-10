@@ -1,6 +1,7 @@
 
 spring:
-  application: CONFIG-DEFAULT
+  application:
+    name: CONFIG-DEFAULT
 
 
 
